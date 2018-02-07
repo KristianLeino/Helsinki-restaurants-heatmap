@@ -3,7 +3,7 @@ import urllib.request
 import numpy as np
 import gmaps
 
-gmaps.configure(api_key="AI..." #your API key
+gmaps.configure(api_key="AI...") #your API key
 
 restaurants = []
 
