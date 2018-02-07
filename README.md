@@ -2,7 +2,7 @@
 
 Uses Helsingin Markkinointi oy / Visit Helsinki open data of restaurants in Helsinki to plot a gmaps heatmap in the IPython Notebook.
 
-![image](https://user-images.githubusercontent.com/33651009/35947811-5586d41e-0c72-11e8-9cd8-c3c635159a07.png)
+![image](https://user-images.githubusercontent.com/33651009/35947926-c9c1cbb8-0c72-11e8-932b-c153b9501145.png)
 
 
 Data source
